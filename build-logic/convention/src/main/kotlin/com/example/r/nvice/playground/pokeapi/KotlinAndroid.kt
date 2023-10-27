@@ -1,8 +1,8 @@
-package com.example.r.nvice.playground
+package com.example.r.nvice.playground.pokeapi
 
-import com.example.r.nvice.playground.Configs.JAVA_VERSION
-import com.example.r.nvice.playground.Configs.SDK_COMPILE
-import com.example.r.nvice.playground.Configs.SDK_MIN
+import com.example.r.nvice.playground.pokeapi.Configs.JAVA_VERSION
+import com.example.r.nvice.playground.pokeapi.Configs.SDK_COMPILE
+import com.example.r.nvice.playground.pokeapi.Configs.SDK_MIN
 import com.android.build.api.dsl.CommonExtension
 import org.gradle.api.Project
 import org.gradle.api.plugins.ExtensionAware

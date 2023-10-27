@@ -3,7 +3,7 @@ import org.gradle.api.Project
 import org.gradle.api.artifacts.VersionCatalogsExtension
 import org.gradle.kotlin.dsl.dependencies
 import org.gradle.kotlin.dsl.getByType
-import com.example.r.nvice.playground.plugins
+import com.example.r.nvice.playground.pokeapi.plugins
 
 class AndroidHiltConventionPlugin : Plugin<Project> {
     override fun apply(target: Project) {

@@ -1,4 +1,4 @@
-package com.example.r.nvice.playground
+package com.example.r.nvice.playground.pokeapi
 
 import org.gradle.api.Project
 import org.gradle.api.plugins.PluginManager
